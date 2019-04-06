@@ -3,5 +3,5 @@
 """
 print("你好旧时光")
 print("123")
-ajhgjahgdj
+ajhj
 xinzeng1
